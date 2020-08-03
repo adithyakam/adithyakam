@@ -5,8 +5,9 @@
 - 🔭 I’m currently working on [crown-shopping](https://github.com/adithyakam/Crown-Shoping)
 - 🌱 I’m currently learning Redux,React hooks
 - 👯 I’m looking to collaborate feel free to contact me<br/>
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2020 Goals: Contribute to Open Source projects
+- ⚡ Fun fact: I love to watch football(soccer).
+
 ### Connect with me:
 
 [<img align="left" alt="adithya" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
