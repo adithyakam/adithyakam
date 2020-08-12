@@ -1,6 +1,6 @@
 ### Hi there 👋,I'm Adithya 
 
- Thanks for dropping by **welcome to my GitHub page!** my [portfolio](https://adithya-portfolio.netlify.app/) plese do check itout
+ Thanks for dropping by **welcome to my GitHub page!** my [portfolio](https://adithya-portfolio.netlify.app/) please do check itout
 
 - 🔭 I’m currently working on [crown-shopping](https://github.com/adithyakam/Crown-Shoping)
 - 🌱 I’m currently learning Redux,React hooks
