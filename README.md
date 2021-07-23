@@ -3,9 +3,9 @@
  Thanks for dropping by **welcome to my GitHub page!** my [portfolio](https://adithya-portfolio.netlify.app/) please do check itout
 
 - 🔭 I’m currently working on [crown-shopping](https://github.com/adithyakam/Crown-Shoping)
-- 🌱 I’m currently learning Redux,React hooks
+- 🌱 I’m currently learning React advance concepts with optimizantion 
 - 👯 I’m looking to collaborate feel free to contact me<br/>
-- 🥅 2020 Goals: Contribute to Open Source projects
+- 🥅 2021 Goals: Contribute to Open Source projects  & learn typescript
 - ⚡ Fun fact: I love to watch football(soccer).
 
 ### Connect with me:
