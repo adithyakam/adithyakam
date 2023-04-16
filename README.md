@@ -1,6 +1,6 @@
 ### Hi there 👋,I'm Adithya 
 
- Thanks for dropping by **welcome to my GitHub page!** my [portfolio](https://adithyakamath.in/) please do check itout
+ Thanks for dropping by **welcome to my GitHub page!** my [portfolio](https://www.adithyakamath.in/) please do check itout
 
 - 🔭 I’m currently working on my react skills
 - 🌱 I’m currently learning React advance concepts with optimizantion 
@@ -28,10 +28,14 @@
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
+
+
+
 <br/>
 <br/>
 
 [![Adithy's github stats](https://github-readme-stats.vercel.app/api?username=adithyakam)](https://github.com/adithykam/github-readme-stats)
 
-[portfolio]: https://adithya-portfolio.netlify.app/
+[portfolio]: https://www.adithyakamath.in/
 [linkedin]:https://www.linkedin.com/in/adithya-kamath-15d34545d/
