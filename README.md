@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on my react skills
 - 🌱 I’m currently learning React advance concepts with optimizantion 
 - 👯 I’m looking to collaborate feel free to contact me<br/>
-- 🥅 2023 Goals: Contribute to Open Source projects  & learn Nextjs , tepescript
+- 🥅 2025 Goals: Contribute to Open Source projects  & learn Nextjs 
 - ⚡ Fun fact: I love to watch football(soccer) & recently obsessed with chess.
 
 ### Connect with me:
